@@ -54,7 +54,7 @@ Most-Asked-Coding-Problems/
 5. **Commit & Push**:
    ```bash
    git add .
-   git commit -m "Added [Problem Name] solution and explanation"
+   git commit -m "Added [Problem Name]"
    git push origin feature-new-problem
    ```
 6. **Create a Pull Request (PR)** and wait for review!
